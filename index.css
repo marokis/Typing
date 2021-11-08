@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+.contents {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.title {
+  font-size: 1.5em;
+  color: #990026;
+  text-align: center;
+}
+
+.text-line {
+  width: 800px;
+  font-size: 1.25em;
+
+}
+
+.content {
+  justify-content: center;
+}
+
+.text-line {
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+.submit {
+  text-align: center;
+}
+
+.subject {
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+  
+}
